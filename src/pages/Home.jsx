@@ -13,8 +13,8 @@ function Home() {
             <li className="content-list__item">
               <h2 className="title-2">Frontend</h2>
               <p>
-                JavaScript, TypeScript, ReactJS, Angular, Redux, HTML, CSS, NPM,
-                BootStrap, MaterialUI, Yarn, TailwindCSS, StyledComponents
+                JavaScript, TypeScript(noobie), ReactJS, HTML, CSS,
+                BootStrap, 
               </p>
             </li>
           </ul>
